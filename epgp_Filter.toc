@@ -1,0 +1,7 @@
+## Interface: 40100
+## Title: EPGP: Whisper Filter
+## Notes: Hides several incoming and outgoing EPGP whispers.
+## Version: 1.2
+## Author: Ethan Centaurai
+
+Core.lua
